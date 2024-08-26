@@ -38,11 +38,12 @@ You can read more details in the [Azure documentation](https://learn.microsoft.c
 
 ## 🌡️ Run Evaluations
 
-1. Simply open and test run [the Python notebook](./notebooks/).
+1. Simply open and run [the Python notebooks](./notebooks/).
 1. Update `call_endpoint()` function [here](./notebooks/01_content_safety_eval.ipynb).
     * Call your custom API endpoint.
     * Process API response to extract AI text.
-3. Trace evaluation log or review generated data files.
+3. Monitor the evaluation log and review generated eval files.
+4. Generate summary of eval files [here](./notebooks/02_analyze_eval.ipynb).
 
 ## ⚙️ Conclusion
 
