@@ -1,4 +1,5 @@
 # Generated JSONL data files
+data/*.json
 data/*.jsonl
 
 # Byte-compiled / optimized / DLL files
